@@ -6,7 +6,7 @@ project(pear_runtime_appling C)
 
 add_pear_appling(
   pear_runtime_appling
-  KEY pear-runtime
+  KEY runtime
   NAME "Pear Runtime"
   VERSION 1.0.0
   AUTHOR Holepunch
